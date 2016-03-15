@@ -65,7 +65,7 @@ a:hover {
 
 
 .article {
-  padding:100px;	
+  padding:20px;	
 }	
 
 .date {
@@ -76,7 +76,7 @@ a:hover {
 .tag {
     color: darkgray;
     font-size: small;
-    padding:20px;
+    padding:60px;
 }
 
 header {
