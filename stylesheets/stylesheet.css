@@ -68,7 +68,11 @@ a:hover {
   padding:100px;	
 }	
 
- 
+.tag {
+    color: darkgray;
+    font-size: small;
+	
+}
 
 header {
   padding-top: 35px;
